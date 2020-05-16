@@ -26,6 +26,6 @@ int main()
         minboy = boy;
     }
     }
-    printf("%d nolu kiþi %d boyuyla 150 ye en yakindir",sonno,minboy);
+    printf("%d nolu kiÃ¾i %d boyuyla 150 ye en yakindir",sonno,minboy);
     return 0;
 }
